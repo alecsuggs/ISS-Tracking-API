@@ -130,7 +130,7 @@ Application Output:
 ## Data Citations:
 
 Position Data-
-Goodwin, S. (n.d.). ISS_COORDS_2022-02-13. NASA. https://nasa-publicdata.s3.amazonaws.com/iss-coords/2022-02-13/ISS_OEM/ISS.OEM_J2K_EPH.xml  
+Goodwin, S. (n.d.). ISS_COORDS_2022-02-13. NASA. https://nasa-public-data.s3.amazonaws.com/iss-coords/2022-02-13/ISS_sightings/XMLsightingData_citiesINT01.xml  
 Retrieved April 15, 2022, from https://data.nasa.gov/Space-Science/ISS_COORDS_2022-02-13/r6u8-bhhq
 
 Sightings Data-
