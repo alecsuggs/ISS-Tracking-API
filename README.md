@@ -12,6 +12,7 @@ format.
 The data used by the tracker application can be downloaded from the following links in a web browser:
 1. [Position Data] (https://nasa-public-data.s3.amazonaws.com/iss-coords/2022-02-13/ISS_OEM/ISS.OEM_J2K_EPH.xml)
 2. [Sightings Data] (https://nasa-public-data.s3.amazonaws.com/iss-coords/2022-02-13/ISS_sightings/XMLsightingData_citiesINT01.xml)
+
 ***Do not change the name of the data files when saving***
 
 To download in Linux terminal:
